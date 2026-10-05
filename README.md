@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=ml" alt="Prabhjeet Singh — Software engineering, machine learning, and AI" width="100%">
+  <img src="./assets/banner.svg?v=research" alt="Prabhjeet Singh — AI/ML research at NYU BAAHL Lab and machine learning engineering" width="100%">
 </p>
 
 <p align="center">
@@ -9,26 +9,43 @@
 
 ## Hi, I'm Prabhjeet 👋
 
-I'm a software engineer and **MS Computer Science student at NYU**. I have three years of backend engineering experience in **logistics and shipping**, using Java, Spring Boot, and Kafka to automate invoice processing, coordinate downstream workflows, and integrate shipping-line APIs.
+I'm an **AI/ML researcher at NYU's BAAHL Lab** and an **MS Computer Science student at NYU**. My research involves evaluating deep learning models for encrypted video inference, including experiments on how activation functions affect video classification. I'm also a **Deep Learning course assistant**.
 
-My work in **machine learning and AI** includes **deep learning, computer vision, natural language processing, vision-language models, LLM fine-tuning, AI agents, and retrieval-augmented generation (RAG)**. At NYU, I'm a Deep Learning course assistant and a graduate student researcher working on model evaluation for encrypted video inference. My projects include adapting SmolVLM with DoRA and studying how language models scale on symbolic music.
+My focus is **machine learning engineering**: deep learning, computer vision, vision-language models, LLM fine-tuning, AI agents, and retrieval-augmented generation. I'm interested in building **production-grade ML and AI systems**, including reproducible training and evaluation, efficient inference, data pipelines, and the services that bring models into an application.
 
-I also build **backend systems and full-stack applications**, with an interest in **distributed systems, event-driven architecture, databases, and data pipelines**.
+I also have three years of software engineering experience in logistics and shipping, working on backend services and asynchronous processing.
 
-## Projects
+## Featured projects
 
-| Project | What I built | Stack |
-| :--- | :--- | :--- |
-| **[Huddle](https://github.com/prabhjeet2570-spec/huddle)** | A study-room booking app with a LangGraph assistant, approval before booking, PostgreSQL conflict checks, and a worker for calendar synchronization. Runs as a local demo. | Python · FastAPI · LangGraph · PostgreSQL |
-| **[SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)** | A full-stack workspace for searching SEC filings, comparing document versions, and reading explanations with source references. Includes background ingestion jobs and full-text search. | React · TypeScript · FastAPI · SQLite FTS5 |
-| **[SmolVLM ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)** | Fine-tuning a small vision-language model on science questions using DoRA, data augmentation, and checkpoint ensembling. | PyTorch · Hugging Face · PEFT |
-| **[AeroStreamAnalytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)** | An aviation dashboard with Kafka ingestion, PySpark analysis, aircraft tracking, and historical flight data. | Python · Kafka · PySpark · Flask |
-| **[Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)** | A study of transformers and LSTMs trained on symbolic music, comparing model size and validation loss. | PyTorch · Transformers · ABC notation |
+### [SmolVLM ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)
+Fine-tuning SmolVLM-500M-Instruct to answer science questions from images and text. The work covers DoRA adapters, data augmentation, test-time augmentation, and checkpoint ensembling, with training and inference notebooks in the repository.
+
+**Tech:** Python · PyTorch · Hugging Face Transformers · PEFT
+
+### [Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)
+A study of how model size affects validation loss when transformers and LSTMs are trained on symbolic music. Includes saved experiment results, plots, and generated music samples.
+
+**Tech:** PyTorch · Transformers · LSTMs · ABC notation
+
+### [Huddle](https://github.com/prabhjeet2570-spec/huddle)
+An AI-assisted study-room booking application built with LangGraph. The assistant checks availability and prepares a proposal; the user confirms the booking. PostgreSQL prevents overlapping reservations, and a separate worker handles calendar synchronization and retries. Runs as a local demo.
+
+**Tech:** Python · FastAPI · LangGraph · PostgreSQL · Docker
+
+### [SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)
+A full-stack workspace for researching company disclosures. Search filings, compare document versions, and read AI explanations with references to the original text. Background ingestion jobs, full-text search, and document provenance support the workflow.
+
+**Tech:** React · TypeScript · FastAPI · SQLite FTS5
+
+### [AeroStreamAnalytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)
+An aviation data platform combining Kafka-based aircraft tracking with PySpark analysis of historical flights. The dashboard brings together traffic, routes, airports, and estimated emissions.
+
+**Tech:** Python · Kafka · PySpark · Flask · Docker
 
 ## Technologies
 
-**Languages:** Java, Python, C++, TypeScript, JavaScript, SQL  
-**Backend & web:** Spring Boot, FastAPI, React, REST APIs, Server-Sent Events  
-**Databases & data:** PostgreSQL, Redis, SQLite, pgvector, Kafka, PySpark  
 **AI & ML:** PyTorch, Hugging Face Transformers, PEFT, LangGraph, LoRA / DoRA, embeddings, RAG  
-**Cloud & tooling:** Azure, Docker, Kubernetes, Git, Azure DevOps, GitHub Actions
+**Data & systems:** Kafka, PySpark, PostgreSQL, Redis, SQLite, pgvector  
+**Languages:** Python, Java, C++, TypeScript, JavaScript, SQL  
+**Applications:** FastAPI, React, Spring Boot, REST APIs  
+**Infrastructure:** Azure, Docker, Kubernetes, GitHub Actions, Azure DevOps
