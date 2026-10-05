@@ -9,7 +9,7 @@
 
 ## Hi, I'm Prabhjeet 👋
 
-I'm a software engineer and **MS Computer Science student at NYU**. Before NYU, I spent three years at **DP World**, working on Java and Spring Boot services, Kafka-based invoice processing, and integrations with shipping-line APIs.
+I'm a software engineer and **MS Computer Science student at NYU**. I have three years of backend engineering experience in **logistics and shipping**, using Java, Spring Boot, and Kafka to automate invoice processing, coordinate downstream workflows, and integrate shipping-line APIs.
 
 My work in **machine learning and AI** includes **deep learning, computer vision, natural language processing, vision-language models, LLM fine-tuning, AI agents, and retrieval-augmented generation (RAG)**. At NYU, I'm a Deep Learning course assistant and a graduate student researcher working on model evaluation for encrypted video inference. My projects include adapting SmolVLM with DoRA and studying how language models scale on symbolic music.
 
