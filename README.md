@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=backend" alt="Prabhjeet Singh — Backend engineering, full-stack applications, and distributed systems" width="100%">
+  <img src="./assets/banner.svg?v=ml" alt="Prabhjeet Singh — Software engineering, machine learning, and AI" width="100%">
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/prabhjeetsingh5201/">LinkedIn</a> ·
   <a href="https://github.com/prabhjeet2570-spec?tab=repositories">Repositories</a>
 </p>
 
 ## Hi, I'm Prabhjeet 👋
 
-I'm a software engineer focused on **backend engineering and full-stack applications**. My projects cover booking systems, document search, streaming data, and machine learning.
+I'm a software engineer and **MS Computer Science student at NYU**. Before NYU, I spent three years at **DP World**, working on Java and Spring Boot services, Kafka-based invoice processing, and integrations with shipping-line APIs.
 
-I'm interested in **distributed systems, system design, database internals, and event-driven architecture**, alongside **AI agents and RAG**. I like the backend problems behind an application: handling concurrent requests, keeping data consistent, and recovering when a job fails.
+My work in **machine learning and AI** includes **deep learning, computer vision, natural language processing, vision-language models, LLM fine-tuning, AI agents, and retrieval-augmented generation (RAG)**. At NYU, I'm a Deep Learning course assistant and a graduate student researcher working on model evaluation for encrypted video inference. My projects include adapting SmolVLM with DoRA and studying how language models scale on symbolic music.
+
+I also build **backend systems and full-stack applications**, with an interest in **distributed systems, event-driven architecture, databases, and data pipelines**.
 
 ## Projects
 
@@ -24,7 +27,8 @@ I'm interested in **distributed systems, system design, database internals, and 
 
 ## Technologies
 
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Backend & web:** FastAPI, React, PostgreSQL, SQLite, REST APIs  
-**Data & ML:** Kafka, PySpark, PyTorch, Hugging Face, LangGraph, LoRA / DoRA  
-**Tooling:** Docker, Git, GitHub Actions
+**Languages:** Java, Python, C++, TypeScript, JavaScript, SQL  
+**Backend & web:** Spring Boot, FastAPI, React, REST APIs, Server-Sent Events  
+**Databases & data:** PostgreSQL, Redis, SQLite, pgvector, Kafka, PySpark  
+**AI & ML:** PyTorch, Hugging Face Transformers, PEFT, LangGraph, LoRA / DoRA, embeddings, RAG  
+**Cloud & tooling:** Azure, Docker, Kubernetes, Git, Azure DevOps, GitHub Actions
