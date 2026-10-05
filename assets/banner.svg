@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Prabhjeet Singh</title>
-  <desc id="desc">Software engineering, AI systems, and applied ML. A midnight blue banner with a cyan and violet systems diagram.</desc>
+  <desc id="desc">Backend engineering, full-stack applications, and distributed systems. A midnight blue banner with a cyan and violet systems diagram.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1221"/><stop offset="1" stop-color="#171c37"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -9,10 +9,10 @@
   <rect width="1200" height="340" rx="18" fill="url(#bg)"/>
   <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
   <rect x="60" y="64" width="48" height="4" rx="2" fill="url(#accent)"/>
-  <text x="60" y="111" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">SOFTWARE ENGINEERING · AI SYSTEMS · APPLIED ML</text>
+  <text x="60" y="111" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">SOFTWARE ENGINEER</text>
   <text x="57" y="183" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Prabhjeet Singh</text>
-  <text x="60" y="229" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23">Building useful systems. Making the details matter.</text>
-  <text x="60" y="284" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1">CODE  /  MODELS  /  DATA  /  PRODUCTS</text>
+  <text x="60" y="229" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="23">Backend engineering. Full-stack applications.</text>
+  <text x="60" y="284" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1">DISTRIBUTED SYSTEMS  /  AI AGENTS  /  DATA ENGINEERING</text>
   <g fill="none" stroke="url(#accent)" stroke-width="2">
     <path d="M865 119 L953 82 L1052 135 L1110 212 L998 261 L896 213 Z" opacity=".45"/>
     <path d="M865 119 L998 261 M953 82 L896 213 M1052 135 L896 213 M1052 135 L998 261 M865 119 L1052 135" opacity=".25"/>
