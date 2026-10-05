@@ -8,35 +8,29 @@
 
 ## Hey, I'm Prabhjeet 👋
 
-I'm a software engineer interested in making AI useful, understandable, and reliable. I build across the stack: interfaces that make complex workflows approachable, backends that handle failures, and tools that help explain what a model or agent actually did.
+I'm a software engineer who enjoys building things with AI, from agents that can use tools to apps that help people make sense of a lot of information. I work across the stack and like seeing an idea through—from an experiment in a notebook to a backend and an interface someone can actually use.
 
-My work spans **agent observability, retrieval and document intelligence, backend systems, and applied machine learning**. I like projects where I can follow a problem from the data and model all the way to a working product.
+I'm interested in **AI agents, retrieval-augmented generation (RAG), multimodal models, model fine-tuning, and data engineering**. Some projects here are applications; others are experiments where I wanted to understand how a model behaves and what makes it better.
 
-## Selected work
+## What I've been building
 
-| Project | What it's about | Under the hood |
+| Project | The idea | Built with |
 | :--- | :--- | :--- |
-| **[AgentReplay](https://github.com/prabhjeet2570-spec/agentreplay)** | Inspect agent traces, investigate failures, and compare simulated continuations with different tool results. | TypeScript · Next.js · OpenTelemetry |
-| **[Huddle](https://github.com/prabhjeet2570-spec/huddle)** | A study-room booking demo with an AI assistant, explicit approval, conflict prevention, and calendar recovery. | Python · FastAPI · LangGraph · PostgreSQL |
-| **[SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)** | A disclosure research workspace for searching filings, comparing versions, and tracing explanations to source text. | React · TypeScript · FastAPI · SQLite FTS5 |
-| **[SmolVLM × ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)** | Fine-tuning a small vision-language model for science questions with DoRA, augmentation, and ensembling. | PyTorch · Hugging Face · PEFT |
-| **[AeroStream Analytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)** | An aviation analytics demo combining aircraft-data ingestion with historical flight analysis. | Python · Kafka · PySpark · Flask |
-| **[Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)** | Exploring how transformer and LSTM model size relates to validation loss on symbolic music. | PyTorch · Transformers · ABC notation |
+| **[Huddle](https://github.com/prabhjeet2570-spec/huddle)** | Describe a study session, find a room, and review an AI-assisted booking before confirming it. A local demo that also handles booking conflicts and calendar failures. | Python · FastAPI · LangGraph · PostgreSQL |
+| **[SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)** | Search company filings, compare document versions, and follow explanations back to the original text in one research workspace. | React · TypeScript · FastAPI · SQLite FTS5 |
+| **[SmolVLM ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)** | Teach a small vision-language model to answer science questions using images, with DoRA fine-tuning, data augmentation, and ensembling. | PyTorch · Hugging Face · PEFT |
+| **[AeroStreamAnalytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)** | Bring aircraft tracking and historical flight analysis into an aviation dashboard using streaming and batch data pipelines. | Python · Kafka · PySpark · Flask |
+| **[Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)** | Explore what happens as transformers and LSTMs get bigger when they're trained on symbolic music instead of ordinary text. | PyTorch · Transformers · ABC notation |
 
-## How I think about engineering
+## What I enjoy working on
 
-- **Make behavior inspectable.** Traces, source citations, and experiment artifacts should help explain the result.
-- **Design for the unhappy path.** Conflicts, retries, interrupted jobs, and recovery are part of the product.
-- **Connect models to useful workflows.** A good interface and a dependable backend matter as much as the model.
+I'm drawn to agents that can do something useful with tools, RAG systems that keep answers connected to their sources, and smaller models that can be adapted to a specific task. I also enjoy the software around them: APIs, databases, data pipelines, and interfaces that make the whole thing easier to use.
 
-## Tools I work with
+I like being able to run an experiment, look at what worked and what didn't, and use that to decide what to build next.
+
+## My toolkit
 
 **Languages:** Python, TypeScript, JavaScript, SQL  
-**Applications & systems:** React, Next.js, FastAPI, PostgreSQL, SQLite, Docker, GitHub Actions  
-**AI & data:** PyTorch, Hugging Face, PEFT / LoRA / DoRA, LangGraph, retrieval-augmented generation, OpenTelemetry, Kafka, PySpark
-
-## Let's connect
-
-Interested in AI systems or developer tools? Explore the projects above to see how I approach the work.
-
-<sub>Project READMEs include setup, context, collaborator credits, and limitations. Research studies and local demos are described in their respective repositories.</sub>
+**Web & backend:** React, FastAPI, PostgreSQL, SQLite  
+**AI & data:** PyTorch, Hugging Face, LangGraph, PEFT, LoRA / DoRA, Kafka, PySpark  
+**Development:** Docker, Git, GitHub Actions
