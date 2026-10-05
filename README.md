@@ -9,13 +9,11 @@
 
 ## Hi, I'm Prabhjeet 👋
 
-I'm pursuing an **MS in Computer Science at NYU** and working as an **AI/ML Researcher at BAAHL Lab**, where I evaluate video models for encrypted inference.
+I'm pursuing an **MS in Computer Science at NYU** and working as an **AI/ML Researcher at BAAHL Lab** on video models for encrypted inference. I'm also a **Teaching Assistant for a 150-student Deep Learning course**.
 
-As a **Deep Learning Teaching Assistant**, I support a **150-student course** through office hours, assignment grading, and written feedback. Explaining the material is a big part of the job, alongside helping students work through it.
+I'm interested in **Agentic AI, Retrieval Augmented Generation, and production-grade ML systems**. The areas I'm exploring include agents that plan and act across tools, multi-agent orchestration, hybrid search and reranking, and model serving that balances accuracy, latency, and cost.
 
-My work spans **model training and fine-tuning, Agentic AI, and Retrieval Augmented Generation**. I build the applications around them too: tool-calling workflows, APIs, retrieval pipelines, and full-stack interfaces. I bring three years of software engineering experience with **Distributed Systems** and asynchronous processing in logistics.
-
-I'm looking for **Software Engineer, ML Engineer, AI Engineer, and Forward Deployed AI Engineer roles**, especially teams building agent-based products. I can contribute across model evaluation, agent workflows, and the software needed to put them in users' hands.
+I want to build systems that handle more than a single prompt: persistent context, long-running workflows, changing data, and failures along the way. **Distributed Systems**, efficient inference, and reliable data pipelines are central to that direction. Before NYU, I spent three years engineering backend services and asynchronous workflows in logistics.
 
 ## Featured Projects
 
