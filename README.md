@@ -1,36 +1,30 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Prabhjeet Singh — Software engineering, AI systems, and applied ML" width="100%">
+  <img src="./assets/banner.svg" alt="Prabhjeet Singh — Backend engineering, full-stack applications, and distributed systems" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://github.com/prabhjeet2570-spec?tab=repositories">Explore my repositories</a>
+  <a href="https://github.com/prabhjeet2570-spec?tab=repositories">Repositories</a>
 </p>
 
-## Hey, I'm Prabhjeet 👋
+## Hi, I'm Prabhjeet 👋
 
-I'm a software engineer who enjoys building things with AI, from agents that can use tools to apps that help people make sense of a lot of information. I work across the stack and like seeing an idea through—from an experiment in a notebook to a backend and an interface someone can actually use.
+I'm a software engineer focused on **backend engineering and full-stack applications**. My projects cover booking systems, document search, streaming data, and machine learning.
 
-I'm interested in **AI agents, retrieval-augmented generation (RAG), multimodal models, model fine-tuning, and data engineering**. Some projects here are applications; others are experiments where I wanted to understand how a model behaves and what makes it better.
+I'm interested in **distributed systems, system design, database internals, and event-driven architecture**, alongside **AI agents and RAG**. I like the backend problems behind an application: handling concurrent requests, keeping data consistent, and recovering when a job fails.
 
-## What I've been building
+## Projects
 
-| Project | The idea | Built with |
+| Project | What I built | Stack |
 | :--- | :--- | :--- |
-| **[Huddle](https://github.com/prabhjeet2570-spec/huddle)** | Describe a study session, find a room, and review an AI-assisted booking before confirming it. A local demo that also handles booking conflicts and calendar failures. | Python · FastAPI · LangGraph · PostgreSQL |
-| **[SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)** | Search company filings, compare document versions, and follow explanations back to the original text in one research workspace. | React · TypeScript · FastAPI · SQLite FTS5 |
-| **[SmolVLM ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)** | Teach a small vision-language model to answer science questions using images, with DoRA fine-tuning, data augmentation, and ensembling. | PyTorch · Hugging Face · PEFT |
-| **[AeroStreamAnalytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)** | Bring aircraft tracking and historical flight analysis into an aviation dashboard using streaming and batch data pipelines. | Python · Kafka · PySpark · Flask |
-| **[Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)** | Explore what happens as transformers and LSTMs get bigger when they're trained on symbolic music instead of ordinary text. | PyTorch · Transformers · ABC notation |
+| **[Huddle](https://github.com/prabhjeet2570-spec/huddle)** | A study-room booking app with a LangGraph assistant, approval before booking, PostgreSQL conflict checks, and a worker for calendar synchronization. Runs as a local demo. | Python · FastAPI · LangGraph · PostgreSQL |
+| **[SEC Filing Atlas](https://github.com/prabhjeet2570-spec/secfilingatlas)** | A full-stack workspace for searching SEC filings, comparing document versions, and reading explanations with source references. Includes background ingestion jobs and full-text search. | React · TypeScript · FastAPI · SQLite FTS5 |
+| **[SmolVLM ScienceQA](https://github.com/prabhjeet2570-spec/smolvlm-scienceqa-dora)** | Fine-tuning a small vision-language model on science questions using DoRA, data augmentation, and checkpoint ensembling. | PyTorch · Hugging Face · PEFT |
+| **[AeroStreamAnalytics](https://github.com/prabhjeet2570-spec/aerostream-analytics)** | An aviation dashboard with Kafka ingestion, PySpark analysis, aircraft tracking, and historical flight data. | Python · Kafka · PySpark · Flask |
+| **[Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data)** | A study of transformers and LSTMs trained on symbolic music, comparing model size and validation loss. | PyTorch · Transformers · ABC notation |
 
-## What I enjoy working on
-
-I'm drawn to agents that can do something useful with tools, RAG systems that keep answers connected to their sources, and smaller models that can be adapted to a specific task. I also enjoy the software around them: APIs, databases, data pipelines, and interfaces that make the whole thing easier to use.
-
-I like being able to run an experiment, look at what worked and what didn't, and use that to decide what to build next.
-
-## My toolkit
+## Technologies
 
 **Languages:** Python, TypeScript, JavaScript, SQL  
-**Web & backend:** React, FastAPI, PostgreSQL, SQLite  
-**AI & data:** PyTorch, Hugging Face, LangGraph, PEFT, LoRA / DoRA, Kafka, PySpark  
-**Development:** Docker, Git, GitHub Actions
+**Backend & web:** FastAPI, React, PostgreSQL, SQLite, REST APIs  
+**Data & ML:** Kafka, PySpark, PyTorch, Hugging Face, LangGraph, LoRA / DoRA  
+**Tooling:** Docker, Git, GitHub Actions
