@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Prabhjeet Singh — Backend engineering, full-stack applications, and distributed systems" width="100%">
+  <img src="./assets/banner.svg?v=backend" alt="Prabhjeet Singh — Backend engineering, full-stack applications, and distributed systems" width="100%">
 </p>
 
 <p align="center">
