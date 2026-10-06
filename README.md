@@ -7,6 +7,11 @@
   <a href="https://github.com/prabhjeet2570-spec?tab=repositories">Projects</a>
 </p>
 
+<p align="center">
+  <a href="mailto:ps5390@nyu.edu">ps5390@nyu.edu</a> ·
+  <a href="mailto:prabhjeet2570@gmail.com">prabhjeet2570@gmail.com</a>
+</p>
+
 ## Hi, I'm Prabhjeet 👋
 
 I'm pursuing an **MS in Computer Science at NYU** and working as an **AI/ML Researcher at BAAHL Lab** on video models for encrypted inference. I'm also a **Teaching Assistant for a 150-student Deep Learning course**.
