@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=applied-ai" alt="Prabhjeet Singh — Applied AI and software engineering. MS CS at NYU; AI/ML Researcher at BAAHL Lab." width="100%">
+  <img src="./assets/banner.svg?v=applied-ai" alt="Prabhjeet Singh — AI, machine learning, and software engineering. MS CS at NYU; AI/ML Researcher at BAAHL Lab." width="100%">
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
   <a href="https://github.com/prabhjeet2570-spec?tab=repositories">All projects</a>
 </p>
 
-## From customer workflows to working software
+## Building AI systems and useful software
 
 I'm Prabhjeet, an **MS Computer Science student at NYU**, **AI/ML Researcher at BAAHL Lab**, and **Deep Learning Teaching Assistant**. My research explores video models for encrypted inference.
 
 Before NYU, I spent **three years building backend systems in logistics**. At **DP World**, I worked directly with external customers and shipping-line partners to understand their APIs and operational workflows, then collaborated with product teams to turn those requirements into workable integrations.
 
-That experience shapes how I build applied AI: understand the user's problem, connect the right data and tools, and make the result usable and inspectable. My projects focus on **RAG, agents, and reliable data workflows**, with particular attention to evaluation, source provenance, human approval, and recovery when an operation fails.
+I work across **AI, machine learning, and software engineering**: training and evaluating models, building retrieval and agent systems, and engineering the APIs, data pipelines, and interfaces around them. I enjoy connecting research ideas to useful applications and understanding how systems behave under real constraints.
 
 ## Selected engineering work
 
@@ -47,12 +47,10 @@ A **LangGraph** agent prepares a room reservation, pauses for human approval, an
 | [AeroStream Analytics](https://github.com/prabhjeet2570-spec/aerostream-analytics) | Connect aircraft observations and historical flight data to a dashboard through Kafka ingestion, PySpark queries, and Parquet storage. Includes benchmark reports and modeled emissions. | Python, Kafka, PySpark, Flask, Docker |
 | [Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data) | Study model size and validation loss by training transformers and LSTMs on symbolic music, with experiment results and generated samples. | PyTorch, Transformers, LSTMs |
 
-The application projects are local portfolio systems with documented setup and boundaries. Their READMEs link to implementation details, examples, and available validation evidence.
-
 ## Tools I work with
 
 **Software:** Python, Java, TypeScript, SQL, FastAPI, Spring Boot, React<br>
 **Applied AI:** PyTorch, Hugging Face, PEFT, LangGraph, retrieval and model evaluation<br>
 **Data and infrastructure:** PostgreSQL, SQLite, Redis, Kafka, PySpark, Docker, Kubernetes, Azure
 
-I'm interested in **applied AI and customer-facing engineering roles** where I can take an ambiguous workflow, work with the people using it, and own the path to a useful solution.
+I'm interested in **AI engineering, machine learning, and software engineering roles**, working on intelligent applications, model development, and reliable backend and data systems.
