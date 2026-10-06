@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Prabhjeet Singh — AI, machine learning, and software engineering</title>
-  <desc id="desc">MS Computer Science at NYU. AI/ML Researcher at BAAHL Lab. Building RAG, agents, and reliable data workflows.</desc>
+  <desc id="desc">MS Computer Science at NYU. AI/ML Researcher at BAAHL Lab. Building machine learning models, intelligent applications, and reliable systems.</desc>
   <rect width="1200" height="260" rx="14" fill="#f5f3ee"/>
   <rect x="54" y="39" width="32" height="3" rx="1.5" fill="#345647"/>
   <text x="54" y="77" fill="#345647" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2">AI · MACHINE LEARNING · SOFTWARE ENGINEERING</text>
   <text x="51" y="145" fill="#202c25" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Prabhjeet Singh</text>
   <text x="54" y="183" fill="#46574c" font-family="Arial, Helvetica, sans-serif" font-size="22">Building models, intelligent applications, and reliable systems.</text>
   <path d="M54 208 H1146" stroke="#d5ddd5"/>
-  <text x="54" y="238" fill="#526057" font-family="Arial, Helvetica, sans-serif" font-size="15">MS CS @ NYU   ·   AI/ML Researcher @ BAAHL Lab   ·   RAG / AGENTS / DATA SYSTEMS</text>
+  <text x="54" y="238" fill="#526057" font-family="Arial, Helvetica, sans-serif" font-size="15">MS CS @ NYU   ·   AI/ML Researcher @ BAAHL Lab   ·   SOFTWARE / MODELS / SYSTEMS</text>
 </svg>

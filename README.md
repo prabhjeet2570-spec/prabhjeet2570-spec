@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg?v=applied-ai" alt="Prabhjeet Singh — AI, machine learning, and software engineering. MS CS at NYU; AI/ML Researcher at BAAHL Lab." width="100%">
+  <img src="./assets/banner.svg?v=ai-ml-software" alt="Prabhjeet Singh — AI, machine learning, and software engineering. MS CS at NYU; AI/ML Researcher at BAAHL Lab." width="100%">
 </p>
 
 <p align="center">
