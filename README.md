@@ -4,13 +4,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prabhjeetsingh5201/">LinkedIn</a> ·
-  <a href="mailto:ps5390@nyu.edu">Email</a> ·
+  <a href="mailto:prabhjeet2570@gmail.com">Personal email</a> ·
+  <a href="mailto:ps5390@nyu.edu">NYU email</a> ·
   <a href="https://github.com/prabhjeet2570-spec?tab=repositories">All projects</a>
 </p>
 
-## Building AI systems and useful software
+## Software engineering, machine learning, and research
 
-I'm Prabhjeet, an **MS Computer Science student at NYU**, **AI/ML Researcher at BAAHL Lab**, and **Deep Learning Teaching Assistant**. My research explores video models for encrypted inference. I work across model development and evaluation, retrieval and agents, and the backend and data systems around them.
+I'm Prabhjeet, an **MS Computer Science student at NYU**, **AI/ML Researcher at BAAHL Lab**, and **Deep Learning Teaching Assistant**. My research explores video models for encrypted inference. I work across backend services, data pipelines, application development, and machine learning, including model evaluation, retrieval, and agent workflows.
 
 Before NYU, I spent **three years building backend systems in logistics**. At **DP World**, I worked with external customers and shipping-line partners to understand their APIs and operational workflows, then collaborated with product teams to build workable integrations.
 
