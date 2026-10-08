@@ -27,18 +27,6 @@ Before NYU, I spent **three years building backend systems in logistics**. At **
 
 Also: [Music Language Models](https://github.com/prabhjeet2570-spec/Scaling-Laws-for-Language-Models-on-Symbolic-Music-Data) — transformer and LSTM experiments on symbolic music.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/prabhjeet2570-spec/FinSight"><img src="https://raw.githubusercontent.com/prabhjeet2570-spec/FinSight/main/docs/screenshots/financial-comparison.png" alt="FinSight light UI comparing financial metrics with citations and calculation evidence" width="380"></a><br>
-      <b>FinSight</b> · <a href="https://github.com/prabhjeet2570-spec/FinSight/blob/main/docs/screenshots/README.md">Evidence and calculation walkthrough</a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/prabhjeet2570-spec/huddle"><img src="https://raw.githubusercontent.com/prabhjeet2570-spec/huddle/main/docs/screenshots/chat-proposal.jpg" alt="Huddle booking assistant showing a proposal for the user to review and approve" width="380"></a><br>
-      <b>Huddle</b> · <a href="https://github.com/prabhjeet2570-spec/huddle#ui-walkthrough">Booking and agent walkthrough</a>
-    </td>
-  </tr>
-</table>
 
 ## Tools I work with
 
