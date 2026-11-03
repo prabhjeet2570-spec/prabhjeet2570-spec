@@ -15,6 +15,17 @@ I'm Prabhjeet, an **MS Computer Science student at NYU**, **AI/ML Researcher at 
 
 Before NYU, I spent **three years building backend systems in logistics**. At **DP World**, I worked with external customers and shipping-line partners to understand their APIs and operational workflows, then collaborated with product teams to build workable integrations.
 
+## Research at BAAHL Lab
+
+I study **privacy-preserving video inference**, focusing on how video models can retain useful accuracy when adapted for computation over encrypted data.
+
+- **Activation sensitivity:** Evaluate how individual and combined changes to nonlinear activations affect video-classification accuracy and prediction stability.
+- **Polynomial approximation:** Develop site-specific approximations for Swish and Sigmoid activations, exploring the tradeoff between model accuracy, numerical stability, and the computational demands of encrypted inference.
+- **Reproducible experimentation:** Build GPU experiment workflows with fixed evaluation cohorts, source and configuration tracking, paired prediction analysis, and independent numerical checks.
+- **Collaborative systems research:** Work with teammates to connect model-level approximation choices with Orion-based encrypted execution, studying realistic workloads, GPU performance, and memory costs.
+
+My contributions center on model evaluation, approximation design, and experiment infrastructure. Research code, datasets, checkpoints, and detailed experimental results remain private.
+
 ## Selected engineering work
 
 | Project | What to explore | Stack |
