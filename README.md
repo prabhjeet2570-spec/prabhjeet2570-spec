@@ -17,12 +17,15 @@ Before NYU, I spent **three years building backend systems in logistics**. At **
 
 ## Research at BAAHL Lab
 
-I study **privacy-preserving video inference**, focusing on how video models can retain useful accuracy when adapted for computation over encrypted data.
+My research explores **efficient, privacy-preserving video inference**: adapting MoViNet's 3D convolutional architecture for fully homomorphic encryption through Orion.
 
-- **Activation sensitivity:** Evaluate how individual and combined changes to nonlinear activations affect video-classification accuracy and prediction stability.
-- **Polynomial approximation:** Develop site-specific approximations for Swish and Sigmoid activations, exploring the tradeoff between model accuracy, numerical stability, and the computational demands of encrypted inference.
-- **Reproducible experimentation:** Build GPU experiment workflows with fixed evaluation cohorts, source and configuration tracking, paired prediction analysis, and independent numerical checks.
-- **Encrypted inference systems:** Investigate how model-level approximation choices translate to Orion-based encrypted execution, with a focus on realistic workloads, GPU performance, and memory costs.
+The work spans the full path from model analysis to encrypted execution:
+
+- **Model evaluation and approximation:** Study activation sensitivity and design site-specific Swish and Sigmoid polynomial approximations, balancing classification accuracy, numerical stability, and encrypted computation cost.
+- **Encrypted model execution:** Develop and validate support for 3D convolutions, depthwise operations, pooling, squeeze-and-excitation gating, and residual connections, including encrypted MoViNet bottleneck execution.
+- **GPU systems and optimization:** Investigate Cheddar-based execution, ciphertext packing, arithmetic precision, bootstrapping, and memory use, with profiling and comparisons against ResNet.
+- **Realistic evaluation:** Connect real-video inputs and calibrated activations with encrypted workloads, separating approximation error from encryption error and measuring forward latency independently of compilation and key generation.
+- **Reproducible research:** Build experiment workflows with fixed datasets, tracked configurations, numerical checks, and paired prediction analysis.
 
 ## Selected engineering work
 
