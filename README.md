@@ -22,9 +22,7 @@ I study **privacy-preserving video inference**, focusing on how video models can
 - **Activation sensitivity:** Evaluate how individual and combined changes to nonlinear activations affect video-classification accuracy and prediction stability.
 - **Polynomial approximation:** Develop site-specific approximations for Swish and Sigmoid activations, exploring the tradeoff between model accuracy, numerical stability, and the computational demands of encrypted inference.
 - **Reproducible experimentation:** Build GPU experiment workflows with fixed evaluation cohorts, source and configuration tracking, paired prediction analysis, and independent numerical checks.
-- **Collaborative systems research:** Work with teammates to connect model-level approximation choices with Orion-based encrypted execution, studying realistic workloads, GPU performance, and memory costs.
-
-My contributions center on model evaluation, approximation design, and experiment infrastructure. Research code, datasets, checkpoints, and detailed experimental results remain private.
+- **Encrypted inference systems:** Investigate how model-level approximation choices translate to Orion-based encrypted execution, with a focus on realistic workloads, GPU performance, and memory costs.
 
 ## Selected engineering work
 
